@@ -15,3 +15,5 @@ Based on https://iw7dmh.jimdofree.com/sunsdr2-pro-pages/tci-macro/
 * To change the WPM, enter value and then click "WPM"
 * To stop the macro click "QRT"
 * To send free text: type some text in the field and click "TX"
+
+* If you want a light theme start the program like this: FYNE_THEME=light ./TCIMacro
