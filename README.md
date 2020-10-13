@@ -23,4 +23,5 @@ Changelog:
 
 0.0.3
 CW characters like colon [:], semicolon [;] and comma [,] are translated to correct TCI commands.
+
 WPM command bug fixed.
