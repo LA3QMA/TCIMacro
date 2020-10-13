@@ -5,7 +5,8 @@ Based on https://iw7dmh.jimdofree.com/sunsdr2-pro-pages/tci-macro/
 
 ![Alt text](/screenshot/MainMenu.png?raw=true "MainMenu")
 
-* Download and extract then execute the Makefile or just move the "TCIMacro" to where ever you want it.
+* Download and extract
+* Run "sudo make install" to install the application or move the "TCIMacro" to where ever you want it.
 * ExpertSDR has to be running
 * Start TCIMacro - by default it tries localhost:40001
 * First time usage select "Prefs" and enter your configuration details.
@@ -17,3 +18,9 @@ Based on https://iw7dmh.jimdofree.com/sunsdr2-pro-pages/tci-macro/
 * To send free text: type some text in the field and click "TX"
 
 * If you want a light theme start the program like this: FYNE_THEME=light ./TCIMacro
+
+Changelog:
+
+0.0.3
+CW characters like colon [:], semicolon [;] and comma [,] are translated to correct TCI commands.
+WPM command bug fixed.
