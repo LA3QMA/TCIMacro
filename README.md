@@ -21,7 +21,8 @@ Based on https://iw7dmh.jimdofree.com/sunsdr2-pro-pages/tci-macro/
 
 Changelog:
 
-0.0.3
+0.0.3:
+
 CW characters like colon [:], semicolon [;] and comma [,] are translated to correct TCI commands.
 
 WPM command bug fixed.
