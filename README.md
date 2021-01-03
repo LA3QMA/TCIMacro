@@ -12,7 +12,7 @@ Based on https://iw7dmh.jimdofree.com/sunsdr2-pro-pages/tci-macro/
 
 ![Alt text](/screenshot/MainMenu.png?raw=true "MainMenu")
 
-* Download and extract
+* Download and extract - https://github.com/LA3QMA/TCIMacro/releases
 * Run "sudo make install" to install the application or move the "TCIMacro" to where ever you want it.
 * ExpertSDR has to be running
 * Start TCIMacro - by default it tries localhost:40001
