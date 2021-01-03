@@ -1,6 +1,13 @@
 # TCIMacro
 Linux TCI Macro for Expert SDR rigs
 
+Also for Android and iPad
+
+https://play.google.com/store/apps/details?id=kai.LA3QMA.TCIMacro
+
+https://apps.apple.com/no/app/tcimacro/id1545837389
+
+
 Based on https://iw7dmh.jimdofree.com/sunsdr2-pro-pages/tci-macro/
 
 ![Alt text](/screenshot/MainMenu.png?raw=true "MainMenu")
